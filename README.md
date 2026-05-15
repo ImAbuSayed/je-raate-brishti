@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/je-raate-brishti/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Je Raate Brishti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-raate-brishti/) |
+| **Get License** | [Obtain a Music License for Je Raate Brishti](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/je-raate-brishti/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7149004365f2154db52d2320410f578f596bd80472ab0eb4f4461400098f8701` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
